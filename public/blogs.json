@@ -1,0 +1,36 @@
+[
+    {
+      "id": "PV001",
+      "title": "Exploring the Hidden Gems of Tokyo",
+      "author": "Sakura Kimura",
+      "author_image": "https://i.ibb.co/D56t7xw/istockphoto-1458998993-1024x1024.jpg",
+      "posted_date": "April 1, 2024",
+      "reading_time": 10
+    },
+    {
+      "id": "PV002",
+      "title": "A Day in the Life of a Digital Nomad",
+      "author": "Alex Thompson",
+      "author_image": "https://i.ibb.co/zHmHk9g/istockphoto-1462024468-1024x1024.jpg",
+      "posted_date": "March 28, 2024",
+      "reading_time": 8
+    },
+    {
+      "id": "PV003",
+      "title": "Finding Peace Through Nature: A Journey in the Swiss Alps",
+      "author": "David Martinez",
+      "author_image": "https://i.ibb.co/JnBH0zn/istockphoto-1749759509-1024x1024.jpg",
+      "posted_date": "March 30, 2024",
+      "reading_time": 12
+    },
+    {
+      "id": "PV004",
+      "title": "Cooking Adventures: Mastering French Cuisine",
+      "author": "Emily Johnson",
+      "author_image": "https://i.ibb.co/z4kJ0gq/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
+      "posted_date": "April 2, 2024",
+      "reading_time": 15
+    }
+    
+  ]
+  
